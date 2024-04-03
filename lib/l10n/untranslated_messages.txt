@@ -1,0 +1,15 @@
+{
+  "ar": [
+    "newHere",
+    "forgetPassword",
+    "selectGender",
+    "selectDuration",
+    "selectSource",
+    "howLongYouHaveBeenLivingInQatar",
+    "areYouSure",
+    "selectDate",
+    "nextWeek",
+    "nextAvailableDates",
+    "pleaseContactQBBToCollectTheResult"
+  ]
+}

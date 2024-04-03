@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536979692845",
+    "project_id": "qbb-android",
+    "storage_bucket": "qbb-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536979692845:android:e5a04e9a9daecf222807a4",
+        "android_client_info": {
+          "package_name": "com.qatar.biobank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRniG57xpb_vP0EfgjzACMEZ0XwG1jXxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
